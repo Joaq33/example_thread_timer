@@ -1,1 +1,1 @@
-# Prueba2
+A timer example using the threading library
